@@ -1,5 +1,10 @@
-10 
+10
 20 10 
-20 10 30 
+20 10 5 
+20 10 5 225 
 head= 20
-tail= 30
+tail=225
+memory is free for node with data 225
+20 10 5 
+head= 20
+tail=5
